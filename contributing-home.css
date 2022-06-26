@@ -1,0 +1,12 @@
+* {
+  text-align: center;
+}
+
+img {
+  height: 50%;
+  width: 50%;
+}
+
+li {
+  list-style-position: inside;
+}
