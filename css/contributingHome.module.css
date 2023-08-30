@@ -1,12 +1,8 @@
-* {
-  text-align: center;
-}
-
-img {
+.img {
   height: 50%;
   width: 50%;
 }
 
-li {
+.li {
   list-style-position: inside;
 }
